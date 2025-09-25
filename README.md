@@ -45,3 +45,6 @@ Objectives
 Disclaimer / Note
 
 This project represents a conceptual and innovative approach to managing essential space resources. While the system design, models, and strategies are grounded in scientific principles, some aspects of the implementation may not be currently feasible with existing technology. This work is intended for academic, research, and exploratory purposes, and aims to inspire future development and experimentation in space resource management.
+
+Acknowledgements
+Special thanks to Dr. @Hayasam for providing valuable feedback on the UML class diagram and database schema, which greatly improved the structure and design of this project.
